@@ -1,0 +1,1 @@
+[ ![Codeship Status for termerys/lovemac](https://codeship.com/projects/cc38f5d0-5c1f-0132-d42f-0e90e8baf01d/status)](https://codeship.com/projects/50692)
